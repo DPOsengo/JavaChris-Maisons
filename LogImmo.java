@@ -17,5 +17,6 @@ public class LogImmo {
 
         System.out.println("\n \n Occupation : ");
         maison.occuper(3);
+        batiment.occuper(10);
     }
 }
